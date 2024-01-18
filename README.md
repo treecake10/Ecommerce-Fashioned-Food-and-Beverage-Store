@@ -2,7 +2,6 @@
 PHP, MySQL, Bootstrap, Sass, and HTML.
 
 <br />
-<br />
 
 # Demo
 ### Buyer Site
