@@ -4,7 +4,7 @@ https://github.com/treecake10/Ecommerce-Fashioned-Food-and-Beverage-Store/assets
 
 # Admin Portal (Pt.1)
 
-https://github.com/treecake10/Ecommerce-Fashioned-Food-and-Beverage-Store/assets/25542109/9bd45302-f601-4bed-9caf-f514acd09512
+https://github.com/treecake10/Ecommerce-Fashioned-Food-and-Beverage-Store/assets/25542109/c2037e90-4891-4721-9c6e-e95dfb3c1edf
 
 # Admin Portal (Pt.2)
 
